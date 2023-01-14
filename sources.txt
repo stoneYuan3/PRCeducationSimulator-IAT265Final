@@ -1,0 +1,37 @@
+
+ALL images and sound effects are original
+
+codes:
+
+Tools{
+week11-lab-basecode
+week13-lec-demo2-perlin-noise 
+}
+
+MinimHelper{
+week11-lab-basecode
+}
+
+Background,Smock{
+perlin noise creation:
+week13-lec-demo2-perlin-noise
+}
+
+InteractiveObjects{
+identifing clicks and collisions:
+w10 lab basecode
+}
+
+StudentFilled4{
+drawing student's eyes:
+referenced week13-lec-demo-3-fractal
+}
+
+
+bgms:
+
+bgm:socialism is good
+https://www.youtube.com/watch?v=By9nKgA5eNM
+
+bgm2(not used):hk97 main bgm "i love beijing tiananmen"
+https://www.youtube.com/watch?v=Is_Z2K7guKs
